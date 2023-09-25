@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **improving my skills with challenging projects!**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS**, **MERN STACK**
 
 - 🤝 I’m always open to **tips and advices.**
 
